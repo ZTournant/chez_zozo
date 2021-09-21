@@ -33,7 +33,7 @@ a:hover {
   text-align: center;
   color: white;
   padding: 20px 0px;
-  background-image: linear-gradient(-500deg, rgba(198,171,168,50) 0%, rgba(236,209,200,0.4) 10%), url("images/pointe_header.jpeg");
+  background-image: linear-gradient(-500deg, rgba(198,171,168,50) 0%, rgba(236,209,200,0.4) 10%), url("pointe_header.jpeg");
   background-size: cover;
   background-position: center;
 }
