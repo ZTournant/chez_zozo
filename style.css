@@ -1,0 +1,104 @@
+body {
+  margin: 20px;
+  background: #F6F0F0;
+  color: rgb(20, 20, 20);
+  font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+  font-weight: thin;
+}
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+h1 {
+	font-size: 70px;
+  font-weight: bold;
+}
+h2 {
+  font-size: 30px;
+  color: #714834;
+}
+a {
+  font-size: 20px;
+  color: #AD7D6B;
+  text-decoration: none;
+}
+a:hover {
+  color: skyblue;
+  text-decoration: none !important;
+}
+
+
+.banner{
+  text-align: center;
+  color: white;
+  padding: 20px 0px;
+  background-image: linear-gradient(-500deg, rgba(198,171,168,50) 0%, rgba(236,209,200,0.4) 10%), url("images/pointe_header.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+.banner h1 {
+  font-size: 50px;
+}
+.banner p {
+  opacity: 1;
+  font-size: 30px;
+  font-weight: lighter;
+  margin-bottom: 40px;
+}
+
+.btn-blue {
+  color: white;
+  border-radius: 4px;
+  padding: 5px 5px;
+  background: #F0E1DF;
+  margin:  auto;
+  width: 200px;
+
+}
+.btn-blue:hover {
+  width: 200px;
+  margin:  auto;
+  text-align: center;
+  background: white;
+  color: white !important;
+}
+
+.btn-blue a {
+  color: #AD8365;
+}
+
+.card-white {
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 16px;
+  margin: 16px 0px;
+}
+.card-white img {
+  margin-bottom: 20px;
+  width: 100%;
+
+}
+
+.footer {
+  text-align: center;
+  background-color: #C6AB93;
+  background-size: cover;
+  padding: 10px;
+  color: white;
+}
+.footer a {
+  color: white;
+  font-size: 22px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+.list-inline li {
+  display: inline;
+  padding: 0px 8px;
+}
